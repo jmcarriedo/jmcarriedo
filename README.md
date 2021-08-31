@@ -2,7 +2,7 @@
 - 👀 My interests are web, mobile app, and blockchain development.
 - 🌱 I’m currently learning full-stack web development.
 - 💞️ I'm also honing my design skills by applying best practices and design principles for UI/UX. 
-- 📫 You may reach me through Discord (Kate Carriedo#0352) or Gmail (joxcarriedo@gmail.com).
+- 📫 You may reach me through Discord (joxxiee#0352).
 
 <!---
 jmcarriedo/jmcarriedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
