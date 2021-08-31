@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jocyll Kate.
-- 👀 I’m interested in web and blockchain development.
+- 👀 My interests are web, mobile app, and blockchain development.
 - 🌱 I’m currently learning full-stack web development.
-- 💞️ I’m looking to collaborate on practice projects.
+- 💞️ I'm also honing my design skills by applying best practices and design principles for UI/UX. 
 - 📫 You may reach me through Discord (Kate Carriedo#0352) or Gmail (joxcarriedo@gmail.com).
 
 <!---
