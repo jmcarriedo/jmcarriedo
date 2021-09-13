@@ -3,6 +3,9 @@
 <h3><strong>I’m Jocyll Kate.</strong></h3>
 <h4>I started coding three months ago. 🚀 </h4>
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 <div>:octocat: Currently interested in
 <ul>
   <li>PHP + Laravel</li>
