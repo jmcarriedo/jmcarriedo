@@ -3,6 +3,13 @@
 <h3><strong>I’m Jocyll Kate.</strong></h3>
 <h4>I started coding three months ago. 🚀 </h4>
 
+<div>:octocat: Currently interested in
+<ul>
+  <li>PHP + Laravel</li>
+  <li>Blockchain Dev</li>
+  <li>Being a better coder</li>
+</ul></div>
+
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,18 +39,11 @@
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<div>:octocat: Currently interested in
-<ul>
-  <li>PHP + Laravel</li>
-  <li>Blockchain Dev</li>
-  <li>Being a better coder</li>
-</ul></div>
  
 <div>Let's connect! 
-<p><a href="mailto:joxcarriedo@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
-<a href="https://discord.com/users/joxxiee#0352"> ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
-<a href="https:/github.com/jmcarriedo"> GitHub</a></p><div>
+<p><a href="mailto:joxcarriedo@gmail.com"> Gmail </a>
+<a href="https://discord.com/users/joxxiee#0352"> Discord </a>
+<a href="https:/github.com/jmcarriedo"> GitHub </a></p><div>
   
 
 <!---
