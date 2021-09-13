@@ -10,7 +10,7 @@
   <li>Being a better coder</li>
 </ul></div>
  
-<div>Let's connect!
+<div>Let's connect! 👩‍💻
 <p><a href="mailto:joxcarriedo@gmail.com"> Gmail </a>
 <a href="https://discord.com/users/joxxiee#0352"> Discord</a>
 <a href="https:/github.com/jmcarriedo"> GitHub</a></p><div>
