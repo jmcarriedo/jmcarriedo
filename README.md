@@ -1,18 +1,18 @@
 <h1>Hello, world peace ✌️</h1>
 
 <h3><strong>I’m Jocyll Kate.</strong></h3>
-<p>I started coding three months ago. Yup, so far so good. 🚀 </p>
+<p>I started coding three months ago. 🚀 </p>
 
 <div>:octocat: Currently interested in
 <ul>
   <li>PHP + Laravel</li>
   <li>Blockchain Dev</li>
-  <li>Being a better coder :woman_astronaut:</li>
+  <li>Being a better coder</li>
 </ul></div>
-
+ 
 <div>Let's connect! 
-<p><a href="mailto:joxcarriedo@gmail.com">📫  Email</a>
-<a href="https:/discord.com/users/joxxiee#0352">Discord</a>
+<p style="display: flex; display: justify-content: between"><a href="mailto:joxcarriedo@gmail.com">📫  Email</a>
+<a href="https:/discord.com/users/joxxiee#0352">🔋 Discord</a>
 <a href="https:/github.com/jmcarried">GitHub</a></p><div>
   
 <div>
