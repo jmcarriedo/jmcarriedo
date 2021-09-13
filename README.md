@@ -3,7 +3,7 @@
 <h3><strong>I’m Jocyll Kate.</strong></h3>
 <p>I started coding three months ago. 🚀 </p>
 
-<div>:octocat: Currently interested in
+<div>Currently interested in :octocat: 
 <ul>
   <li>PHP + Laravel</li>
   <li>Blockchain Dev</li>
@@ -11,13 +11,10 @@
 </ul></div>
  
 <div>Let's connect! 
-<p style="display: flex; display: justify-content: between"><a href="mailto:joxcarriedo@gmail.com">📫  Email</a>
-<a href="https:/discord.com/users/joxxiee#0352">🔋 Discord</a>
-<a href="https:/github.com/jmcarried">GitHub</a></p><div>
+<p style="display: flex; display: justify-content: space-between"><a href="mailto:joxcarriedo@gmail.com" style="color:red;">📫  Email</a>
+<a href="https:/discord.com/users/joxxiee#0352" style="color:blue;">🔋 Discord</a>
+<a href="https:/github.com/jmcarried" style="color:orange;">💻 GitHub</a></p><div>
   
-<div>
-  <img src="https://img.icons8.com/plasticine/100/000000/totoro.png"/>
-</div>
 
 <!---
 jmcarriedo/jmcarriedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
