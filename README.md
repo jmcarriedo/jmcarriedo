@@ -1,6 +1,6 @@
 <h1>Hello, world peace ✌️</h1>
 
-<p><strong>I’m Jocyll Kate.</strong></p>
+<h3><strong>I’m Jocyll Kate.</strong></h3>
 <p>I started coding three months ago. Yup, so far so good. 🚀 </p>
 
 <div>:octocat: Currently interested in
