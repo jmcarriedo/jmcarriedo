@@ -6,7 +6,7 @@
 <div>:octocat: Current focus areas:
 <ul>
   <li>Learning PHP + Laravel</li>
-  <li>Getting into Blockchain Dev</li>
+  <li>To dive into fundamentals of Blockchain Dev</li>
   <li>To become a better coder one day at a time 🙇‍♀️</li>
 </ul></div>
 
