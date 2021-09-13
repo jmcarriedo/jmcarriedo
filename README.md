@@ -9,13 +9,11 @@
   <li>Blockchain Dev</li>
   <li>Being a better coder :woman_astronaut:</li>
 </ul></div>
-<hr/>
 
 <div>Let's connect! 
 <p><a href="mailto:joxcarriedo@gmail.com">📫  Email</a>
 <a href="https:/discord.com/users/joxxiee#0352">Discord</a>
 <a href="https:/github.com/jmcarried">GitHub</a></p><div>
-<hr/>
   
 <div>
   <img src="https://img.icons8.com/plasticine/100/000000/totoro.png"/>
