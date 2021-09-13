@@ -3,11 +3,11 @@
 <h3><strong>I’m Jocyll Kate.</strong></h3>
 <h4>I started coding three months ago. 🚀 </h4>
 
-<div>:octocat: Current focus areas:
+<div>:octocat: Current focus areas & tasks
 <ul>
   <li>Learning PHP + Laravel</li>
-  <li>To dive into fundamentals of Blockchain Dev</li>
-  <li>To become a better coder one day at a time 🙇‍♀️</li>
+  <li>Get into learning Blockchain Dev</li>
+  <li>Become a better coder one day at a time 🙇‍♀️</li>
 </ul></div>
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
