@@ -1,8 +1,7 @@
-<h1>Hello, world peace</h1>✌️
+<h1>Hello, world peace ✌️</h1>
 
-<strong>I’m Jocyll Kate.</strong>
-I'm a career shifter. It's never to late to learn coding, right?
-Started coding <time>3 months ago</time>
+<p><strong>I’m Jocyll Kate.</strong></p>
+<p>Started coding three months ago...</p>👩‍🚀
 
 :octocat: Currently interested in
 <ul>
