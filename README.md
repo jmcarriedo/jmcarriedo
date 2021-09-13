@@ -8,12 +8,12 @@
   <li>PHP + Laravel</li>
   <li>Blockchain Dev</li>
   <li>Being a better coder</li>
-</ul></div><br/>
+</ul></div>
  
 <div>Let's connect!
-<p><a href="mailto:joxcarriedo@gmail.com" style="color:red;">📫  Gmail </a>
-<a href="https:/discord.com/users/joxxiee#0352" style="color:blue;">🔋 Discord</a>
-<a href="https:/github.com/jmcarried" style="color:orange;">💻 GitHub</a></p><div>
+<p><a href="mailto:joxcarriedo@gmail.com"> Gmail </a>
+<a href="https://discord.com/users/joxxiee#0352"> Discord</a>
+<a href="https:/github.com/jmcarriedo"> GitHub</a></p><div>
   
 
 <!---
