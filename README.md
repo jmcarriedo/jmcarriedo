@@ -3,7 +3,7 @@
 <h3><strong>I’m Jocyll Kate.</strong></h3>
 <h4>I started coding three months ago. 🚀 </h4>
 
-<div>:octocat: Current focus areas
+<div>:octocat: Current focus areas:
 <ul>
   <li>Learning PHP + Laravel</li>
   <li>Getting into Blockchain Dev</li>
