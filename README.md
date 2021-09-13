@@ -8,7 +8,7 @@
   <li>PHP + Laravel</li>
   <li>Blockchain Dev</li>
   <li>Being a better coder</li>
-</ul></div>(<-- two spaces)
+</ul></div><br/>
  
 <div>Let's connect!
 <p><a href="mailto:joxcarriedo@gmail.com" style="color:red;">📫  Gmail </a>
