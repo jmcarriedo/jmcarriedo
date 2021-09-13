@@ -7,7 +7,7 @@
 <ul>
   <li>PHP + Laravel</li>
   <li>Blockchain Dev</li>
-  <li>Daily goal: become a better coder 🙇‍♀️</li>
+  <li>Daily goal: become a better coder vs yesterday 🙇‍♀️</li>
 </ul></div>
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
