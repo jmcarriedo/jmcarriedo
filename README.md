@@ -5,7 +5,7 @@
 
 <div>:octocat: Current focus areas
 <ul>
-  <li>Vue JS + Laravel API</li>
+  <li>Vue + Laravel API</li>
   <li>Angular 12 + Laravel API</li>
   <li>Daily goal: to become a better coder 🙇‍♀️</li>
 </ul></div>
