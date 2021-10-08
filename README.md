@@ -1,7 +1,7 @@
 <h1>Hello, world peace ✌️</h1>
 
 <h3><strong>I’m Jocyll Kate.</strong></h3>
-<h4>I started coding three months ago. 🚀 </h4>
+<h4>I started my coding journey last July 2021. Zero regrets...so far. 🚀 </h4>
 
 <div>:octocat: Current focus areas
 <ul>
