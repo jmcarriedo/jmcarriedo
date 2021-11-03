@@ -5,7 +5,7 @@
 
 <div>:octocat: Current focus areas
 <ul>
-  <li>Learning blockchain dev</li>
+  <li>Learning blockchain dev at the moment</li>
   <li>Daily goal: to become a better coder 🙇‍♀️</li>
 </ul></div>
 
