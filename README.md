@@ -1,13 +1,4 @@
-# Hi there, I'm Jocyll 👋 
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
 ### Connect with me:
 
@@ -64,6 +55,14 @@
 
 <h3><strong>I’m Jocyll Kate.</strong></h3>
 <h4>I started my coding journey last July 2021. Zero regrets...so far. 🚀 </h4>
+### I started my coding journey last July 2021. Zero regrets...so far. 🚀
+
+- 🔭 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learn more about web3 and machine learning
+- ⚡ Daily goal: to never stop learning and to become a better coder 🙇‍♀️
+- 😻 Check out the NFT collection I created:
 
 <div>:octocat: Current focus areas
 <ul>
