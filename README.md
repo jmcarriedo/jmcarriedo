@@ -1,26 +1,17 @@
 <h1>Hello, world peace ✌️</h1>
 
 <h3><strong>I’m Jocyll Kate.</strong></h3>
-<h4>I started my coding journey last July 2021. Zero regrets...so far. 🚀 </h4>
 
 ### I started my coding journey last July 2021. Zero regrets...so far. 🚀
-
-- 🔭 
+---
+- 🔭 Current dev project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3 and machine learning
-- ⚡ Daily goal: to never stop learning and to become a better coder 🙇‍♀️
-- 😻 Check out the NFT collection I created:
-
-<div>:octocat: Current focus areas
-<ul>
-  <li>To learn AI and machine learning. Do projects related to health/medical field.</li>
-  <li>Already built blockchain projects. Need to do more and explore other applications.</li>
-  <li>Daily goal: to never stop learning and to become a better coder 🙇‍♀️</li>
-</ul></div>
+- ⚡ Daily goal: To never stop learning and to become a better coder 🙇‍♀️
+- 😻 Future goal: Do projects related to health/medical field.
 
 ### Connect with me:
-
+---
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
@@ -32,7 +23,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
-
+---
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
