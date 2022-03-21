@@ -12,23 +12,16 @@
 ---
 ### Connect with me:
 
-<div>Let's connect in
-<a href="https://discord.com/users/joxxiee#0352"> Discord </a>
-<div>
-
-(./img/discord-dark.svg)](https://discord.com/users/joxxiee#0352)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)]
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)]
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]
+<a href="https://discord.com/users/joxxiee#0352">  
+<img src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/> Discord</a>
 ---
+
+### Stats:
   
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+  
+---
   
 ### Languages and Tools:
 
@@ -42,9 +35,8 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
 
-
+  
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
