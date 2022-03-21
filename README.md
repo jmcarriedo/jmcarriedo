@@ -33,7 +33,7 @@ I started my coding journey last July 2021. Zero regrets...so far.
 
 ## <h3>Stats</h3>
   
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jmcarriedo&layout=compact&hide=stars&show_icons=true&theme=radical)](https://github.com/jmcarriedo)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jmcarriedo&layout=compact&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/jmcarriedo)
 
 <!--!
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
