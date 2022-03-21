@@ -15,7 +15,7 @@ I started my coding journey last July 2021. Zero regrets...so far.
 <a href="https://discord.com/users/joxxiee#0352"><img src="https://img.icons8.com/nolan/26/discord.png"/></a>
 <a href="https://instagram.com/jocyllkate"><img src="https://img.icons8.com/nolan/26/instagram-new.png"/></a>
 
-## Languages and Tools
+## <h3>Languages and Tools</h3>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -31,7 +31,7 @@ I started my coding journey last July 2021. Zero regrets...so far.
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
-## Stats
+## <h3>Stats</h3>
   
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jmcarriedo)](https://github.com/jmcarriedo)
 
