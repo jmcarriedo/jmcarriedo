@@ -10,17 +10,11 @@
 - ⚡ Daily goal: To never stop learning and to become a better coder 🙇‍♀️
 - 😻 Future goal: Do projects related to health/medical field.
 ---
-### Connect with me:
+### Let's connect:
 
 <a href="https://discord.com/users/joxxiee#0352">  
-<img src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/> Discord</a>
----
+<img src="https://img.icons8.com/clouds/60/000000/discord-logo.png"/> Discord</a>
 
-### Stats:
-  
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
-  
 ---
   
 ### Languages and Tools:
@@ -71,7 +65,13 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
+### Stats:
+  
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/jmcarriedo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/jmcarriedo)
+  
 <!---
 jmcarriedo/jmcarriedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
