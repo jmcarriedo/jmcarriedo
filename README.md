@@ -16,7 +16,7 @@
 <a href="https://discord.com/users/joxxiee#0352"> Discord </a>
 <div>
 
-[![website](./img/discord-dark.svg)](https://discord.com/users/joxxiee#0352)
+(./img/discord-dark.svg)](https://discord.com/users/joxxiee#0352)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)]
 &nbsp;&nbsp;
