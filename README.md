@@ -2,13 +2,13 @@
 
 <img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate.</strong>
 
-I started my coding journey last July 2021. Zero regrets...so far. 🚀
+I started my coding journey last July 2021. Zero regrets...so far. 
 
-- 🔭 Current Dev Project: NFT marketplace
+- 🚀 Current Dev Project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and machine learning
 - ⚡ Daily Goal: To never stop learning and to become a better coder 🙇‍♀️
-<!--- 😻 Future Projects: Do projects related to health/medical field.-->
+<!--- 😻 Future Projects: Do projects related to health/medical field. 🔭 🙇‍-->
 
 ### Let's connect!
 
