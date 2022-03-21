@@ -1,6 +1,6 @@
 # Hello, world peace ✌️
 
-## I’m Jocyll Kate.</strong>
+I’m Jocyll Kate.</strong>
 
 I started my coding journey last July 2021. Zero regrets...so far. 🚀
 
@@ -9,9 +9,8 @@ I started my coding journey last July 2021. Zero regrets...so far. 🚀
 - 🥅 2022 Goals: Learn more about web3 and machine learning
 - ⚡ Daily goal: To never stop learning and to become a better coder 🙇‍♀️
 - 😻 Future goal: Do projects related to health/medical field.
----
 
-### Let's connect:
+## Let's connect:
 
 <a href="https://discord.com/users/joxxiee#0352">  
 <img src="https://img.icons8.com/clouds/60/000000/discord-logo.png"/> Discord</a>
@@ -22,7 +21,7 @@ I started my coding journey last July 2021. Zero regrets...so far. 🚀
 [website]: https://codeSTACKr.com
 
   
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
@@ -70,10 +69,9 @@ I started my coding journey last July 2021. Zero regrets...so far. 🚀
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Stats:
+## Stats:
   
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jmcarriedo)](https://github.com/jmcarriedo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcarriedo&layout=compact)](https://github.com/jmcarriedo)
   
 <!---
 jmcarriedo/jmcarriedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
