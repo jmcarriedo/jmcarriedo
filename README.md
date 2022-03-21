@@ -1,6 +1,6 @@
 # Hello, world peace ✌️
 
-I’m Jocyll Kate.</strong>
+<img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate.</strong>
 
 I started my coding journey last July 2021. Zero regrets...so far. 🚀
 
@@ -13,7 +13,7 @@ I started my coding journey last July 2021. Zero regrets...so far. 🚀
 ### Let's connect:
 
 <a href="https://discord.com/users/joxxiee#0352"><img src="https://img.icons8.com/nolan/26/discord.png"/></a>
-<a href="https://instagram.com/jocyllkate"><img src="https://img.icons8.com/nolan/26/instagram.png"/></a>
+<a href="https://instagram.com/jocyllkate"><img src="https://img.icons8.com/nolan/26/instagram-new.png"/></a>
 
 ## Languages and Tools:
 
@@ -29,6 +29,8 @@ I started my coding journey last July 2021. Zero regrets...so far. 🚀
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<br/>
+
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
