@@ -1,6 +1,8 @@
 # Hello, world peace ✌️
 
-### <strong><img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate. A software engineer.</strong>
+### <strong><img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate.</strong>
+
+I'm a software engineer.
 
 - 🚀 Current Dev Project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
