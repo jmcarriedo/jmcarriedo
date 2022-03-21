@@ -2,14 +2,15 @@
 
 ## I’m Jocyll Kate.</strong>
 
-## I started my coding journey last July 2021. Zero regrets...so far. 🚀
----
+I started my coding journey last July 2021. Zero regrets...so far. 🚀
+
 - 🔭 Current dev project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3 and machine learning
 - ⚡ Daily goal: To never stop learning and to become a better coder 🙇‍♀️
 - 😻 Future goal: Do projects related to health/medical field.
 ---
+
 ### Let's connect:
 
 <a href="https://discord.com/users/joxxiee#0352">  
@@ -19,7 +20,7 @@
 &nbsp;&nbsp;
 
 [website]: https://codeSTACKr.com
----
+
   
 ### Languages and Tools:
 
@@ -69,12 +70,10 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
 ### Stats:
   
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/jmcarriedo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/jmcarriedo)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=jmcarriedo)](https://github.com/jmcarriedo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcarriedo&layout=compact)](https://github.com/jmcarriedo)
   
 <!---
 jmcarriedo/jmcarriedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
