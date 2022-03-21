@@ -7,7 +7,7 @@
 <ul>
   <li>To learn AI and machine learning. Do projects related to health/medical field.</li>
   <li>Already built blockchain projects. Need to do more and explore other applications.</li>
-  <li>Daily goal: to never stop studying and to become a better coder 🙇‍♀️</li>
+  <li>Daily goal: to never stop learning and to become a better coder 🙇‍♀️</li>
 </ul></div>
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -44,9 +44,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  
 <div>Let's connect! 
-<p><a href="mailto:joxcarriedo@gmail.com"> Gmail </a>
 <a href="https://discord.com/users/joxxiee#0352"> Discord </a>
-<a href="https://github.com/jmcarriedo"> GitHub </a></p><div>
+<div>
   
 
 <!---
