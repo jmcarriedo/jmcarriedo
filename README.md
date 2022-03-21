@@ -1,8 +1,8 @@
-<h1>Hello, world peace ✌️</h1>
+# Hello, world peace ✌️
 
-<h3><strong>I’m Jocyll Kate.</strong></h3>
+## I’m Jocyll Kate.</strong>
 
-### I started my coding journey last July 2021. Zero regrets...so far. 🚀
+## I started my coding journey last July 2021. Zero regrets...so far. 🚀
 ---
 - 🔭 Current dev project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
@@ -14,7 +14,11 @@
 
 <a href="https://discord.com/users/joxxiee#0352">  
 <img src="https://img.icons8.com/clouds/60/000000/discord-logo.png"/> Discord</a>
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
 
+[website]: https://codeSTACKr.com
 ---
   
 ### Languages and Tools:
