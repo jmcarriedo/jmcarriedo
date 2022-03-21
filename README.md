@@ -1,7 +1,7 @@
 # Hello, there!
 
 <img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate.
-<br/>
+<br/><br/>
 I started my coding journey last July 2021. Zero regrets...so far. 🚀
 
 - 🔭 Current Dev Project: NFT marketplace
