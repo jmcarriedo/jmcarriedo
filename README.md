@@ -2,7 +2,7 @@
 
 ### <strong><img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate.</strong>
 
-I'm a software engineer.
+I'm a software engineer. I like dogs, One Piece, and iced white mocha.
 
 - 🚀 Current Dev Project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
