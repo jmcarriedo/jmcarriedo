@@ -2,7 +2,7 @@
 
 ### <strong><img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m a software developer based in Sydney, Australia.</strong>
 
-I am curious and passionate about modern technology. 
+I'm always curious and passionate about modern technology. 
 
 - 🚀 Current Dev Project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
