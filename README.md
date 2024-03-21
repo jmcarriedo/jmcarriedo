@@ -1,8 +1,8 @@
-# Hey there! 👋
+# Hey, I'm Kate 👋
 
-### <strong><img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate.</strong>
+### <strong><img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m a software developer based in Sydney, Australia.</strong>
 
-I'm a software engineer. I like dogs, One Piece, and iced white mocha.
+I am curious and passionate about modern technology. 
 
 - 🚀 Current Dev Project: NFT marketplace
 - 🌱 I’m currently learning everything 🤣
