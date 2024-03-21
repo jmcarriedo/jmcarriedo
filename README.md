@@ -1,4 +1,4 @@
-# Hey,
+# Hey there! 👋
 
 ### <strong><img src="https://img.icons8.com/nolan/26/partly-cloudy-night.png"/> I’m Jocyll Kate.</strong>
 
